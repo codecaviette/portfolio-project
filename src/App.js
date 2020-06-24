@@ -1,3 +1,5 @@
+// This is the main component that combines all Components to be displayed
+
 import React from 'react';
 import './App.css';
 import Navbar from './Sections/Navbar';

@@ -7,7 +7,7 @@ export class ContactForm extends Component {
         return (
             <div>
                 <section id="contact-screen">
-                    <div className= "container-fluid " id="contact-section">
+                    <div className= "container-fluid" id="contact-section">
                         <div className="row row-content">
                             <div className="col-12">
                                 <h2 id="contactTitle"> Get in touch </h2>

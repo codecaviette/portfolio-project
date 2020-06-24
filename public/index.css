@@ -69,7 +69,7 @@ body {
 #about-text{
     text-align: center;
     align-self: center;
-    padding: 3rem;
+    padding: 4rem;
 }
 
 #about-image{
@@ -81,6 +81,12 @@ body {
 
 #skills-section{
     padding: 5rem;
+}
+
+#skill-box {
+    text-align: center;
+    padding: 2rem;
+
 }
 
 .project-icon{
