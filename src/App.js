@@ -8,19 +8,35 @@ import AboutMe from './Sections/AboutMe';
 import Skills from './Sections/Skills';
 import ContactForm from './Sections/ContactForm';
 import Footer from './Sections/Footer';
-
+import { Spring } from 'react-spring/renderprops';
 
 class App extends React.Component {
   render(){
     return (
-      <div className="App">
-        <Navbar />
-        <LandingScreen />
+      <React.Fragment>
+
+        {/*Spring gives animation to React. Can have multiple Spring wrappers */}
+        <Spring
+          from={{ opacity: 0, marginLeft: 560}}
+          to={{ opacity: 1, marginLeft: 0}}
+          config={{duration: 1500, delay: 200}}  
+        > 
+        {
+          (props) => (
+            <div className="App" style={props}>
+              <Navbar />
+              <LandingScreen />
+            </div>
+          )
+        }
+        </Spring>
+
         <AboutMe />
         <Skills />
         <ContactForm />
         <Footer />
-      </div>
+
+      </React.Fragment>
   );
 }}
 
