@@ -19,7 +19,7 @@ class App extends React.Component {
         <Spring
           from={{ opacity: 0, marginLeft: 560}}
           to={{ opacity: 1, marginLeft: 0}}
-          config={{duration: 1500, delay: 200}}  
+          config={{duration: 700, delay: 200}}  
         > 
         {
           (props) => (
