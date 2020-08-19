@@ -17,8 +17,8 @@ class App extends React.Component {
 
         {/*Spring gives animation to React. Can have multiple Spring wrappers */}
         <Spring
-          from={{ opacity: 0, marginLeft: 560}}
-          to={{ opacity: 1, marginLeft: 0}}
+          from={{ opacity: 0, marginBottom: 560}}
+          to={{ opacity: 1, marginBottom: 0}}
           config={{duration: 700, delay: 200}}  
         > 
         {
