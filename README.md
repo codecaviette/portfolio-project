@@ -7,13 +7,13 @@ Landing page:
   <img width="750" alt="homepage" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/landing_page.png">
 </div>
 
-
+</br>
 About Me page:
 <div style="text-align:center">
   <img width="750" alt="aboutme" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/jenny.png">
 </div>
 
-
+</br>
 Skills page:
 <div style="text-align:center">
   <img width="750" alt="skills" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
