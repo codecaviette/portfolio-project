@@ -1,3 +1,23 @@
-Hi, and welcome to my personal portfolio project page (alliteration anyone?) ! 
+Hi, I'm Jenny Chou. Welcome to my portfolio project that I built from the ground up using JavaScript, Bootstrap, and HTML, then refactored it to React. 
 
-https://jenny-chou.netlify.app/
+Please visit the full page here: https://jenny-chou.netlify.app/ - I've also included previews below!
+
+Landing page:
+<div style="text-align:center">
+  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/landing_page.png">
+</div>
+
+About Me page:
+<div style="text-align:center">
+  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/jenny.png">
+</div>
+
+Skills page:
+<div style="text-align:center">
+  <img width="750" alt="homepage maximized" src="hhttps://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
+</div>
+
+Contact Us page:
+<div style="text-align:center">
+  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
+</div>
