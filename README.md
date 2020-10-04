@@ -4,20 +4,20 @@ Please visit the full page here: https://jenny-chou.netlify.app/ - I've also inc
 
 Landing page:
 <div style="text-align:center">
-  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/landing_page.png">
+  <img width="750" alt="homepage" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/landing_page.png">
 </div>
 
 About Me page:
 <div style="text-align:center">
-  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/jenny.png">
+  <img width="750" alt="aboutme" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/jenny.png">
 </div>
 
 Skills page:
 <div style="text-align:center">
-  <img width="750" alt="homepage maximized" src="hhttps://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
+  <img width="750" alt="skills" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
 </div>
 
 Contact Us page:
 <div style="text-align:center">
-  <img width="750" alt="homepage maximized" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
+  <img width="750" alt="contactus" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
 </div>
