@@ -19,7 +19,7 @@ Skills page:
   <img width="750" alt="skills" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
 </div>
 
-
+</br>
 Contact Us page:
 <div style="text-align:center">
   <img width="750" alt="contactus" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
