@@ -5,6 +5,7 @@ import './App.css';
 import Navbar from './Sections/Navbar';
 import LandingScreen from './Sections/LandingScreen';
 import AboutMe from './Sections/AboutMe';
+import Projects from './Sections/Projects';
 import Skills from './Sections/Skills';
 import ContactForm from './Sections/ContactForm';
 import Footer from './Sections/Footer';
@@ -33,6 +34,7 @@ class App extends React.Component {
 
         <AboutMe />
         <Skills />
+        <Projects />
         <ContactForm />
         <Footer />
 
