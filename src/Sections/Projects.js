@@ -9,33 +9,33 @@ class Projects extends Component {
                         <div className="row">
                             <div className="col-md-6 col-lg-3" id="project-box">
                                 <div className="card">
-                                    <div className="card-image"></div>
+                                    <div className="card1-image"></div>
                                     <div className="card-text">
                                         <span className="date"> 4 days ago </span> 
-                                        <h2>Project One</h2>
-                                        <p>Lorem epsum... </p>
+                                        <h2>Login App</h2>
+                                        <p>This dynamic React app displays the UI for a login form, using reactstrap and social media logins.  </p>
                                     </div>
                                     <div className="class-stats"></div>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3" id="project-box">    
                                 <div className="card">
-                                    <div className="card-image"></div>
+                                    <div className="card2-image"></div>
                                     <div className="card-text">
                                         <span className="date"> 4 days ago </span> 
-                                        <h2>Project One</h2>
-                                        <p>Lorem epsum... </p>
+                                        <h2>Nucampsite Project</h2>
+                                        <p>Explore Nucamp Bootcamp's campsites, leave a review, and submit feedback! </p>
                                     </div>
                                     <div className="class-stats"></div>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3" id="project-box">    
                                 <div className="card">
-                                    <div className="card-image"></div>
+                                    <div className="card3-image"></div>
                                     <div className="card-text">
                                         <span className="date"> 4 days ago </span> 
-                                        <h2>Project One</h2>
-                                        <p>Lorem epsum... </p>
+                                        <h2>Grocery List</h2>
+                                        <p> Dynamic React app that creates an interactive grocery list </p>
                                     </div>
                                     <div className="class-stats"></div>
                                 </div>

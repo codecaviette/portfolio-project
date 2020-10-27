@@ -97,12 +97,12 @@ body {
     
 }
 #project-box {
-    margin: 2rem;
+    margin: 1rem;
 }
 .card{
     display: grid;
     grid-template-columns: auto;
-    grid-template-rows: 210px 210px 80px; 
+    grid-template-rows: 200px 200px 130px; 
     grid-template-areas: "image" "text" "stats";
 
     font-family: "Inter", sans-serif;
@@ -110,10 +110,27 @@ body {
     background: white;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
     text-align: center; 
+
+    transition: 0.5s ease;
+    cursor: pointer;
 }
-.card-image{
+.card1-image{
     grid-area: image;
     background: url("login_app.png");
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+}
+.card2-image{
+    grid-area: image;
+    background: url("Nucampsite_app.png");
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+}
+.card3-image{
+    grid-area: image;
+    background: url("grocerylist.png");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -134,7 +151,10 @@ body {
 .card-stats{
     grid-area: stats;
 }
-
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
 
 .project-icon{
     font-size: 4rem;   
