@@ -20,7 +20,7 @@ class Projects extends Component {
                                     </div>
                                     <div className="class-stats">
                                         <a class="btn btn-info" href="https://github.com/codecaviette/login-app" role="button">
-                                            <i class="fab fa-github"></i> View in GitHub
+                                            <i class="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>
@@ -31,11 +31,11 @@ class Projects extends Component {
                                     <div className="card-text">
                                         <span className="date">  </span> 
                                         <h2>Nucampsite Project</h2>
-                                        <p> Explore Nucamp Bootcamp's campsites, leave a comment and rating, and submit your contact info and feedback! </p>
+                                        <p> Explore Nucamp Bootcamp's campsites, leave a comment and rating, and submit your contact info! </p>
                                     </div>
                                     <div className="class-stats">
                                         <a class="btn btn-info" href="https://github.com/codecaviette/nucampsite" role="button">
-                                            <i class="fab fa-github"></i> View in GitHub
+                                            <i class="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>
@@ -50,7 +50,7 @@ class Projects extends Component {
                                     </div>
                                     <div className="class-stats">
                                         <a class="btn btn-info" href="https://github.com/codecaviette/grocery-list" role="button">
-                                            <i class="fab fa-github"></i> View in GitHub
+                                            <i class="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>

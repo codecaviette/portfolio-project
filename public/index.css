@@ -124,7 +124,7 @@ h3 {
 
     font-family: "Inter", sans-serif;
     border-radius: 18px;
-    background: white;
+    background: #F5EDED;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
     text-align: center; 
 
@@ -176,11 +176,12 @@ h3 {
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
 
-
+#contact-screen{
+    background-color: #F5EDED;
+}
 #contact-section{
     display:flex;
     padding: 5rem;
-    background-color: #F5EDED;
 }
 
 .btn-social-icon {

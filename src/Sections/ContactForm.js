@@ -7,6 +7,9 @@ export class ContactForm extends Component {
         return (
             <div>
                 <section id="contact-screen">
+                    <div className="col-12">
+                        <h2 id="sectionTitle"> CONTACT </h2>
+                    </div>
                     <div className= "container-fluid" id="contact-section">
                         <div className="row row-content">
                             <div className="col-12">

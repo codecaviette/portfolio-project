@@ -14,7 +14,7 @@ class AboutMe extends Component {
                         <div className="row" >
                             <div className="col-sm-6" id="about-text" >
                                 <h2> Hi, I'm Jenny. </h2>
-                                <p> I am a customer-centric professional who thrives in improving the user experience, enhancing product design, and optimizing process efficiencies. I have a passion for creating effective, easily digestible resources and tools for all end users, from leadership to frontline employees. </p>
+                                <p> I am a customer-centric builder who thrives in improving the user experience, enhancing product design, and optimizing process efficiencies. I have a passion for creating effective, easily digestible resources and tools for all end users, from leadership to frontline employees. </p>
                             </div> 
                             <div className="col" id="about-image">
                                 <img src="img/jmc1.png" className="img-fluid"/>
