@@ -11,33 +11,45 @@ class Projects extends Component {
                                 <div className="card">
                                     <div className="card1-image"></div>
                                     <div className="card-text">
-                                        <span className="date"> 4 days ago </span> 
+                                        <span className="date">  </span> 
                                         <h2>Login App</h2>
                                         <p>This dynamic React app displays the UI for a login form, using reactstrap and social media logins.  </p>
                                     </div>
-                                    <div className="class-stats"></div>
+                                    <div className="class-stats">
+                                        <a class="btn btn-info" href="https://github.com/codecaviette/login-app" role="button">
+                                            <i class="fab fa-github"></i> View in GitHub
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3" id="project-box">    
                                 <div className="card">
                                     <div className="card2-image"></div>
                                     <div className="card-text">
-                                        <span className="date"> 4 days ago </span> 
+                                        <span className="date">  </span> 
                                         <h2>Nucampsite Project</h2>
-                                        <p>Explore Nucamp Bootcamp's campsites, leave a review, and submit feedback! </p>
+                                        <p> Explore Nucamp Bootcamp's campsites, leave a comment and rating, and submit your contact info and feedback! </p>
                                     </div>
-                                    <div className="class-stats"></div>
+                                    <div className="class-stats">
+                                        <a class="btn btn-info" href="https://github.com/codecaviette/nucampsite" role="button">
+                                            <i class="fab fa-github"></i> View in GitHub
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3" id="project-box">    
                                 <div className="card">
                                     <div className="card3-image"></div>
                                     <div className="card-text">
-                                        <span className="date"> 4 days ago </span> 
+                                        <span className="date"> </span> 
                                         <h2>Grocery List</h2>
-                                        <p> Dynamic React app that creates an interactive grocery list </p>
+                                        <p> Dynamic React app that creates an interactive grocery list. Add, remove and cross out items! </p>
                                     </div>
-                                    <div className="class-stats"></div>
+                                    <div className="class-stats">
+                                        <a class="btn btn-info" href="https://github.com/codecaviette/grocery-list" role="button">
+                                            <i class="fab fa-github"></i> View in GitHub
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

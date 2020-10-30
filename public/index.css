@@ -84,7 +84,6 @@ body {
 #skills-section{
     padding: 5rem;
 }
-
 #skill-box {
     text-align: center;
     padding: 2rem;
@@ -94,10 +93,12 @@ body {
 /* Project Page */
 #projects-section{
     padding: 5rem;
-    
 }
 #project-box {
     margin: 1rem;
+}
+h2 {
+    font-weight: bold;
 }
 .card{
     display: grid;
@@ -150,6 +151,9 @@ body {
 }
 .card-stats{
     grid-area: stats;
+    font-size: 15px;
+    font-weight: 300;
+    background-color: lightskyblue;
 }
 .card:hover{
     transform: scale(1.1);
