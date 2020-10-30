@@ -15,27 +15,27 @@ export class Skills extends Component {
                         <div className="row" id="skills-section">
                             <div className="col" id="skill-box">
                                 <i className="fab fa-css3-alt skill-icon"></i>
-                                <h3> CSS </h3>
+                                <h4> CSS </h4>
                             </div>
                             <div className="col" id="skill-box">
                                 <i className="fab fa-html5 skill-icon"></i>
-                                <h3> HTML </h3>
+                                <h4> HTML </h4>
                             </div>
                             <div className="col" id="skill-box">
                                 <i className="fab fa-js-square skill-icon"></i>
-                                <h3> JavaScript </h3>
+                                <h4> JavaScript </h4>
                             </div>
                             <div className="col" id="skill-box">
                                 <i className="fab fa-bootstrap skill-icon"></i>
-                                <h3> Bootstrap </h3>
+                                <h4> Bootstrap </h4>
                             </div>
                             <div className="col" id="skill-box">
                                 <i className="fab fa-react skill-icon"></i>
-                                <h3> React </h3>
+                                <h4> React </h4>
                             </div>
                             <div className="col" id="skill-box">
                                 <i className="fab fa-node-js skill-icon"></i>
-                                <h3> NodeJS </h3>
+                                <h4> NodeJS </h4>
                             </div>  
                         </div>
                     </div>
