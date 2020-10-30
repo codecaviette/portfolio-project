@@ -92,14 +92,14 @@ body {
 
 /* Project Page */
 #projects-section{
-    padding: 5rem;
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
 }
 #project-box {
     margin: 1rem;
 }
-h2 {
-    font-weight: bold;
-}
+
 .card{
     display: grid;
     grid-template-columns: auto;
@@ -175,6 +175,12 @@ h2 {
     color: #282e33;
 }
 
-#contactTitle {
+#sectionTitle {
     font-family:"Amiko", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    align-self: center;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+
 }

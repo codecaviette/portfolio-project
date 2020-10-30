@@ -7,7 +7,7 @@ export class Skills extends Component {
     render() {
         return (
             <div>
-                <section id="projects-screen">      {/* This id allows for quick navigation to this section from Navbar */}
+                <section id="skills-screen">      {/* This id allows for quick navigation to this section from Navbar */}
                     <div className="container-fluid" id="skills-section">       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
                         <div className="row">
                             <div className="col-md-6 col-lg-3" id="skill-box">

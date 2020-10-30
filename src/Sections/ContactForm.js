@@ -10,7 +10,7 @@ export class ContactForm extends Component {
                     <div className= "container-fluid" id="contact-section">
                         <div className="row row-content">
                             <div className="col-12">
-                                <h2 id="contactTitle"> Get in touch </h2>
+                                <h2 id="sectionTitle"> Get in touch </h2>
                                 <hr />
                             </div>
                             <div className="col-md-10">

@@ -6,7 +6,7 @@ class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-sm navbar-dark  sticky-top">
+                <nav className="navbar navbar-expand-sm navbar-dark sticky-top">
                 <div className="container-fluid">    
                     <a className="navbar-brand" href="#" id="contactTitle">JC</a>
                     
@@ -16,8 +16,9 @@ class Navbar extends Component {
 
                     <div className="collapse navbar-collapse" id="navbarContent">
                         <ul className="navbar-nav ml-auto">
-                            <li className="nav-item active "> <a  className="nav-link" href="#about-screen"> about <span className="sr-only">(current)</span></a></li>
-                            <li className="nav-item "><a className="nav-link" href="#projects-screen"> projects </a></li>
+                            <li className="nav-item active"><a className="nav-link" href="#projects-screen"> projects <span className="sr-only">(current)</span></a></li>
+                            <li className="nav-item "><a className="nav-link" href="#skills-screen"> skills </a></li>
+                            <li className="nav-item "><a className="nav-link" href="#about-screen"> about </a></li>
                             <li className="nav-item "><a className="nav-link" href="#contact-screen"> contact </a></li>
                         </ul>
                     </div>

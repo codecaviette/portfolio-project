@@ -4,7 +4,10 @@ class Projects extends Component {
     render() {
         return (
             <div>
-                <section id="projectsPage-screen">      {/* This id allows for quick navigation to this section from Navbar */}
+                <section id="projects-screen">      {/* This id allows for quick navigation to this section from Navbar */}
+                    <div className="col-12">
+                        <h2 id="sectionTitle"> PROJECTS </h2>
+                    </div>
                     <div className="container-fluid" id="projects-section">       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
                         <div className="row">
                             <div className="col-md-6 col-lg-3" id="project-box">

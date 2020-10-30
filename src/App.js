@@ -31,10 +31,9 @@ class App extends React.Component {
           )
         }
         </Spring>
-
-        <AboutMe />
-        <Skills />
         <Projects />
+        <Skills />
+        <AboutMe />
         <ContactForm />
         <Footer />
 
