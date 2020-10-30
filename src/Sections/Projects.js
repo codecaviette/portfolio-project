@@ -19,8 +19,8 @@ class Projects extends Component {
                                         <p>This dynamic React app displays the UI for a login form, using reactstrap and social media logins.  </p>
                                     </div>
                                     <div className="class-stats">
-                                        <a class="btn btn-info" href="https://github.com/codecaviette/login-app" role="button">
-                                            <i class="fab fa-github"></i> View on GitHub
+                                        <a className="btn btn-info" href="https://github.com/codecaviette/login-app" role="button">
+                                            <i className="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>
@@ -34,8 +34,8 @@ class Projects extends Component {
                                         <p> Explore Nucamp Bootcamp's campsites, leave a comment and rating, and submit your contact info! </p>
                                     </div>
                                     <div className="class-stats">
-                                        <a class="btn btn-info" href="https://github.com/codecaviette/nucampsite" role="button">
-                                            <i class="fab fa-github"></i> View on GitHub
+                                        <a className="btn btn-info" href="https://github.com/codecaviette/nucampsite" role="button">
+                                            <i className="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@ class Projects extends Component {
                                         <p> Dynamic React app that creates an interactive grocery list. Add, remove and cross out items! </p>
                                     </div>
                                     <div className="class-stats">
-                                        <a class="btn btn-info" href="https://github.com/codecaviette/grocery-list" role="button">
-                                            <i class="fab fa-github"></i> View on GitHub
+                                        <a className="btn btn-info" href="https://github.com/codecaviette/grocery-list" role="button">
+                                            <i className="fab fa-github"></i> View on GitHub
                                         </a>
                                     </div>
                                 </div>
