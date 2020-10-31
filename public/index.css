@@ -34,6 +34,8 @@ h3 {
 }
 .navbar{
     background-color: #282e33;
+    font-weight:bold;
+    font-family:"Inter", sans-serif;
 }
 
 .navbar-nav > li{
