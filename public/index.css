@@ -185,7 +185,10 @@ h3 {
 }
 
 .btn-social-icon {
-    font-size: 3rem;
+    font-size: 5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 6rem;
     color: #282e33;
 }
 

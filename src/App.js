@@ -9,6 +9,7 @@ import Projects from './Sections/Projects';
 import Skills from './Sections/Skills';
 import ContactForm from './Sections/ContactForm';
 import Footer from './Sections/Footer';
+import Contact from './Sections/Contact';
 import { Spring } from 'react-spring/renderprops';
 
 class App extends React.Component {
@@ -34,8 +35,7 @@ class App extends React.Component {
         <Projects />
         <Skills />
         <AboutMe />
-        <ContactForm />
-        <Footer />
+        <Contact />
 
       </React.Fragment>
   );
