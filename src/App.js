@@ -35,6 +35,7 @@ class App extends React.Component {
         </Spring>
         <Projects />
         <Skills />
+        <Space />
         <AboutMe />
         <Contact />
         <Space />
