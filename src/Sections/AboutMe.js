@@ -7,7 +7,7 @@ class AboutMe extends Component {
         return (
             <div>
                 <section id="about-screen">
-                    <div className="container-fluid" id="about-section">
+                    <div id="about-section">
                         <div className="row" >
                             <div className="col-sm-6" id="about-text" >
                                 <h2 id="sectionTitle"> ABOUT </h2>

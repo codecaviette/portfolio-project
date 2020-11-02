@@ -71,26 +71,26 @@ h3 {
     font-size: x-large;
 }
 
+/**/
 #about-section{
     display:flex;
+    flex-wrap: wrap;
+    padding: 4rem;
 }
 #about-text{
     text-align: center;
     align-self: center;
     padding-top: 1rem;
     padding-bottom: 4rem;
-    padding-right: 3.5rem;
-    padding-left: 3.5rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
     font-size: 1.1rem;
 }
 #about-image{
     display: flex;
     justify-content: center;
     align-items: center;  
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
+
 }
 
 /* Skills Page */
