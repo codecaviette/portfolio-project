@@ -8,7 +8,7 @@ export class LandingScreen extends Component {
         return (
             <div>
                 <section>
-                    <div id="landingScreen" className="container-fluid">   {/*This is the landing area, the overarching flexbox */}
+                    <div id="landingScreen">   {/*This is the landing area, the overarching flexbox */}
                         <div id="landingScreen-contentWrapper">   {/* This is the content div, which will allow us to move all content within flexbox as one */}
                             <p id="jcDescription"> customer-centric <br/>
                             web developer</p>

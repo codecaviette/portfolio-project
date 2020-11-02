@@ -6,7 +6,7 @@ function Contact() {
     return (
         <div>
             <section id="contact-screen">
-                    <div className="col">
+                    <div>
                         <h2 id="sectionTitle">CONTACT</h2>
                     </div>
                     <div className="text-center contact-section">

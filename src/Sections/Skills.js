@@ -8,10 +8,10 @@ export class Skills extends Component {
         return (
             <div>
                 <section id="skills-screen">      {/* This id allows for quick navigation to this section from Navbar */}
-                    <div className="col-12">
+                    <div>
                         <h2 id="sectionTitle"> SKILLS </h2>
                     </div>
-                    <div className="container-fluid" >       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
+                    <div>       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
                         <div id="skills-section">
                             <div id="skill-box">
                                 <i className="fab fa-js-square skill-icon"></i>

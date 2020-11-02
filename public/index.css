@@ -202,10 +202,13 @@ h3 {
 }
 
 #sectionTitle {
+
     font-family:"Amiko", sans-serif;
     font-weight: bold;
     text-align: center;
     padding-top: 6rem;
     padding-bottom: 1rem;
+    padding-left: 0;
+    padding-right: 0;
 
 }
