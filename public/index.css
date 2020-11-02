@@ -82,8 +82,8 @@ h3 {
     align-self: center;
     padding-top: 1rem;
     padding-bottom: 4rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
     font-size: 1.1rem;
 }
 #about-image{
@@ -107,8 +107,8 @@ h3 {
 }
 #skill-box {
     text-align: center;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 1.7rem;
+    padding-left: 1.7rem;
     padding-bottom: 2rem;
     padding-top: 1rem;
 }
@@ -196,7 +196,7 @@ h3 {
     padding: 1rem;
 }
 .btn-social-icon {
-    font-size: 4rem;
+    font-size: 3rem;
     padding-left: 2rem;
     padding-right: 2rem;
     color: #282e33;
