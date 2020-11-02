@@ -10,6 +10,7 @@ import Skills from './Sections/Skills';
 import ContactForm from './Sections/ContactForm';
 import Footer from './Sections/Footer';
 import Contact from './Sections/Contact';
+import Space from './Sections/Space';
 import { Spring } from 'react-spring/renderprops';
 
 class App extends React.Component {
@@ -36,6 +37,7 @@ class App extends React.Component {
         <Skills />
         <AboutMe />
         <Contact />
+        <Space />
 
       </React.Fragment>
   );

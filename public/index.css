@@ -79,9 +79,9 @@ h3 {
     align-self: center;
     padding-top: 1rem;
     padding-bottom: 4rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
-    font-size: 1rem;
+    padding-right: 3.5rem;
+    padding-left: 3.5rem;
+    font-size: 1.1rem;
 }
 #about-image{
     display: flex;
@@ -191,18 +191,16 @@ h3 {
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 5rem;
+    padding: 1rem;
 }
 .btn-social-icon {
     font-size: 4rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-bottom: 6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     color: #282e33;
 }
 
 #sectionTitle {
-
     font-family:"Amiko", sans-serif;
     font-weight: bold;
     text-align: center;
@@ -210,5 +208,9 @@ h3 {
     padding-bottom: 1rem;
     padding-left: 0;
     padding-right: 0;
+}
 
+.space{
+    background-color: #F5EDED;
+    height: 3rem;
 }
