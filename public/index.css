@@ -78,7 +78,32 @@ h3 {
     background-color: #282e33;
     font-weight:bold;
     text-align: center;
-    padding-bottom: 3rem;
+    height: 10vh;    
+    display: flex;
+    width: 100%;
+}
+.arrow-button {
+    color: rgb(231, 88, 85);
+    font-size: 1.7rem;
+    align-self: flex-end;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    height: 100px;
+    margin: 0 auto 0 auto;
+    transform-origin: bottom;
+    width: 100px;
+}
+.arrow-button:hover {
+    color: white;
+}
+.bounce{
+    animation-name: bounce;
+        animation-timing-function: ease;
+}
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-30px); }
+    100% { transform: translateY(0); }
 }
 
 #about-section{

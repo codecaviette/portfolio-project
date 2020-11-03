@@ -6,7 +6,7 @@ class DownArrow extends Component {
     render() {
         return (
             <div className="arrow-section">
-                <a className="btn btn-outline-info" href="#projects-screen" role="button">
+                <a className="arrow-button bounce" href="#projects-screen" >
                     <i class="fas fa-chevron-down"></i>
                 </a>
             </div>
