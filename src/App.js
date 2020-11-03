@@ -11,6 +11,7 @@ import ContactForm from './Sections/ContactForm';
 import Footer from './Sections/Footer';
 import Contact from './Sections/Contact';
 import Space from './Sections/Space';
+import DownArrow from './Sections/DownArrow';
 import { Spring } from 'react-spring/renderprops';
 
 class App extends React.Component {
@@ -29,6 +30,7 @@ class App extends React.Component {
             <div className="App" style={props}>
               <Navbar />
               <LandingScreen />
+              <DownArrow />
             </div>
           )
         }

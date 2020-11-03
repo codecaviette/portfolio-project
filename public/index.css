@@ -9,6 +9,7 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    scroll-behavior: smooth;
 }
 
 /* This didn't actually have an effect on this particular project, 
@@ -45,33 +46,41 @@ h3 {
     padding-right: 1rem;
 }
 
+/* Landing Page */
 /* I opted for flexbox over the grid because it is inherently responsive */
 #landingScreen {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 97vh;
+    height: 86vh;
     background-color: #282e33;
 }
 #landingScreen-contentWrapper{
     line-height: 1.75rem;
 }
 
-/* About Page */
 #jcName{
     font-family:"Amiko", sans-serif;
     color: rgb(231, 88, 85);
     font-size: xx-large;
     font-weight: bold;
-    font-family:"Amiko", sans-serif;
 }
 
 #jcDescription{
     color: #EAE1E1;
     font-size: x-large;
+    text-align: center;
+    font-family: "Inter", sans-serif;
 }
 
-/**/
+/* Down Arrow from Landing page to Projects section */
+.arrow-section {
+    background-color: #282e33;
+    font-weight:bold;
+    text-align: center;
+    padding-bottom: 5rem;
+}
+
 #about-section{
     display:flex;
     flex-wrap: wrap;
