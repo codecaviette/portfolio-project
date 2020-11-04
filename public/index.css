@@ -9,7 +9,6 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
-    scroll-behavior: smooth;
 }
 
 /* This didn't actually have an effect on this particular project, 
@@ -98,7 +97,7 @@ h3 {
 }
 .bounce{
     animation-name: bounce;
-        animation-timing-function: ease;
+    animation-timing-function: ease;
 }
 @keyframes bounce {
     0%   { transform: translateY(0); }
