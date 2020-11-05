@@ -133,6 +133,7 @@ h3 {
 #skills-section{
     display: flex;
     flex-wrap: wrap;
+
     justify-content: center;
     padding-top: 1rem;
     padding-right: 0.5rem;
@@ -140,13 +141,14 @@ h3 {
 }
 #skill-box {
     text-align: center;
-    padding-right: 1.7rem;
-    padding-left: 1.7rem;
+    width: 7rem;
+    padding-right: 1.3rem;
+    padding-left: 1.3rem;
     padding-bottom: 2rem;
     padding-top: 1rem;
 }
 .skill-icon{
-    font-size: 2.5rem;   
+    font-size: 3.7rem;   
 }
 
 /* Projects Page */
