@@ -1,6 +1,8 @@
-Hi, I'm Jenny Chou. Welcome to my portfolio project that I built from the ground up using JavaScript, Bootstrap, and HTML, then refactored it to React. 
+I built this responsive personal marketing website from the ground up. This single page app uses HTML anchors, CSS animations, and a Bootstrap navigation bar. I also refactored it from HTML to React.  
 
-Please visit the full page here: https://jenny-chou.netlify.app/ - I've also included previews below!
+Live version here: https://jenny-chou.netlify.app/ 
+
+Previews below.
 
 Landing page:
 <div style="text-align:center">
