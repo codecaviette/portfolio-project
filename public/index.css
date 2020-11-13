@@ -133,7 +133,6 @@ h3 {
 #skills-section{
     display: flex;
     flex-wrap: wrap;
-
     justify-content: center;
     padding-top: 1rem;
     padding-right: 0.5rem;
@@ -175,7 +174,7 @@ h3 {
 }
 .banner-img1 {
     position: relative;
-    background-image: url("login_app.png");
+    background-image: url("login-app.png");
     height: 14rem;
     width: 100%;
     background-position: center;
