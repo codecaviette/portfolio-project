@@ -14,7 +14,7 @@ class Projects extends Component {
                         <div className="project-box">  
                             <div className="banner-img1"></div> 
                             <h1 className="project-name">Login App</h1>
-                            <p className="project-description">This dynamic React app displays the UI for a login form, using reactstrap and social media logins.</p>
+                            <p className="project-description">This React app displays the UI for a login form, using reactstrap and social media logins.</p>
                             <a className="btn btn-info proj-btn" href="https://github.com/codecaviette/login-app" role="button">
                                 <i className="fab fa-github"></i> View on GitHub
                             </a>
@@ -32,7 +32,7 @@ class Projects extends Component {
                         <div className="project-box">  
                             <div className="banner-img3"></div>
                             <h1 className="project-name">Grocery List</h1>
-                            <p className="project-description">Dynamic React app that creates an interactive grocery list. Add, remove and cross out items!</p>
+                            <p className="project-description"> Responsive React app that creates an interactive grocery list. Add, remove and cross out items!</p>
                             <a className="btn btn-info proj-btn" href="https://github.com/codecaviette/grocery-list" role="button">
                                 <i className="fab fa-github"></i> View on GitHub
                             </a>
