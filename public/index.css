@@ -4,11 +4,10 @@
 /* This accounts for extra white space on right side of page*/
 html,body
 {
-    width: 100%;
-    height: 100%;
+    
     margin: 0px;
     padding: 0px;
-    /* overflow-x: hidden; --Removed b/c was hiding AOS animations*/
+    overflow-x: hidden; 
     scroll-behavior: smooth;
 
 }

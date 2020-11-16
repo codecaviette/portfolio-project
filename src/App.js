@@ -19,14 +19,17 @@ import { Spring } from 'react-spring/renderprops';
 import 'aos/dist/aos.css';
 
 //Initialize AOS
-AOS.init({duration: 3000});
+AOS.init({
+  duration: 2000,
+  once:true
+});
 class App extends React.Component {
 
   render(){
     return (
       <React.Fragment>
 
-        {/*Spring gives animation to React. Can have multiple Spring wrappers 
+        {/*Spring gives animation to React. Can have multiple Spring wrappers */}
         <Spring
           from={{ opacity: 0, marginBottom: 560}}
           to={{ opacity: 1, marginBottom: 0}}
@@ -41,10 +44,7 @@ class App extends React.Component {
             </div>
           )
         }
-        </Spring> */}
-        <Navbar />
-        <LandingScreen />
-        <DownArrow />
+        </Spring>
         <Projects />
         <Skills />
         <Space />
