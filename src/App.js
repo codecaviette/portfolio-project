@@ -1,6 +1,7 @@
 // This is the main component that combines all Components to be displayed
 
 import React from 'react';
+import AOS from 'aos';
 import './App.css';
 import Navbar from './Sections/Navbar';
 import LandingScreen from './Sections/LandingScreen';
@@ -14,12 +15,18 @@ import Space from './Sections/Space';
 import DownArrow from './Sections/DownArrow';
 import { Spring } from 'react-spring/renderprops';
 
+//internal import
+import 'aos/dist/aos.css';
+
+//Initialize AOS
+AOS.init({duration: 3000});
 class App extends React.Component {
+
   render(){
     return (
       <React.Fragment>
 
-        {/*Spring gives animation to React. Can have multiple Spring wrappers */}
+        {/*Spring gives animation to React. Can have multiple Spring wrappers 
         <Spring
           from={{ opacity: 0, marginBottom: 560}}
           to={{ opacity: 1, marginBottom: 0}}
@@ -34,7 +41,10 @@ class App extends React.Component {
             </div>
           )
         }
-        </Spring>
+        </Spring> */}
+        <Navbar />
+        <LandingScreen />
+        <DownArrow />
         <Projects />
         <Skills />
         <Space />

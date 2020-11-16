@@ -9,9 +9,9 @@ class Projects extends Component {
                         <h2 id="sectionTitle"> PROJECTS </h2>
                     </div>
 
-                    <div  id="projects-section">       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
+                    <div id="projects-section">       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
                         
-                        <div className="project-box">  
+                        <div className="project-box" data-aos="fade-right">  
                             <div className="banner-img1"></div> 
                             <h1 className="project-name">Login App</h1>
                             <p className="project-description">This React app displays the UI for a login form, using reactstrap and social media logins.</p>
@@ -20,7 +20,7 @@ class Projects extends Component {
                             </a>
                         </div>
                     
-                        <div className="project-box">  
+                        <div className="project-box" data-aos="fade-up">  
                             <div className="banner-img2"></div>
                             <h1 className="project-name">Nucampsite Project</h1>
                             <p className="project-description">Explore Nucamp Bootcamp's campsites, leave a rating, and submit your contact info!</p>
@@ -29,7 +29,7 @@ class Projects extends Component {
                             </a>
                         </div>
                     
-                        <div className="project-box">  
+                        <div className="project-box" data-aos="fade-left">  
                             <div className="banner-img3"></div>
                             <h1 className="project-name">Grocery List</h1>
                             <p className="project-description"> Responsive React app that creates an interactive grocery list. Add, remove and cross out items!</p>

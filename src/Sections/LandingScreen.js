@@ -9,7 +9,7 @@ export class LandingScreen extends Component {
             <div>
                 <section>
                     <div id="landingScreen">   {/*This is the landing area, the overarching flexbox */}
-                        <div id="landingScreen-contentWrapper">   {/* This is the content div, which will allow us to move all content within flexbox as one */}
+                        <div id="landingScreen-contentWrapper" data-aos="fade-up">   {/* This is the content div, which will allow us to move all content within flexbox as one */}
                             <br/>
                             <br/>
                             <p id="jcDescription"> customer-centric <br/>
