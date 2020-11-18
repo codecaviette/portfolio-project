@@ -7,10 +7,10 @@ class AboutMe extends Component {
         return (
             <div >
                 <section id="about-screen">
-                    <div id="aboutAnchor"></div>
+                    <div id="aboutAnchor"></div>        {/* Use to anchor AOS animations below */}
                     <div id="about-section">
                         <div className="row" >
-                            <div className="col-sm-6" id="about-text"  data-aos="fade-right" data-aos-anchor="#aboutAnchor" data-aos-anchor-placement="center-bottom" >
+                            <div className="col-sm-6" id="about-text" data-aos="fade-right" data-aos-anchor="#aboutAnchor" data-aos-anchor-placement="center-bottom" >
                                 <h2 id="sectionTitle"> ABOUT </h2>
                                 <br/>
                                 <p> Hi, I'm Jenny. I am a customer-centric builder who thrives in improving the user experience, enhancing product design, and optimizing process efficiencies. I have a passion for creating effective, easily digestible resources and tools for all end users, from leadership to frontline employees. </p>

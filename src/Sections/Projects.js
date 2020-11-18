@@ -5,7 +5,7 @@ class Projects extends Component {
         return (
             <div>
                 <section id="projects-screen">      {/* This id allows for quick navigation to this section from Navbar */}
-                    <div id="projectAnchor"></div>
+                    <div id="projectAnchor"></div>    {/* Use to anchor AOS animations below */}
                     
                     <div >
                         <h2 id="sectionTitle"> PROJECTS </h2>
