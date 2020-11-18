@@ -29,22 +29,9 @@ class App extends React.Component {
     return (
       <React.Fragment>
 
-        {/*Spring gives animation to React. Can have multiple Spring wrappers */}
-        <Spring
-          from={{ opacity: 0, marginBottom: 560}}
-          to={{ opacity: 1, marginBottom: 0}}
-          config={{duration: 700, delay: 200}}  
-        > 
-        {
-          (props) => (
-            <div className="App" style={props}>
-              <Navbar />
-              <LandingScreen />
-              <DownArrow />
-            </div>
-          )
-        }
-        </Spring>
+        <Navbar />
+        <LandingScreen />
+        <DownArrow />
         <Projects />
         <Skills />
         <Space />
