@@ -21,7 +21,6 @@ import 'aos/dist/aos.css';
 //Initialize AOS
 AOS.init({
   duration: 1500,
-  once: true, 
 });
 class App extends React.Component {
 
