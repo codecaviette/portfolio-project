@@ -1,52 +1,16 @@
-
-
 ## Table of Contents
 
 - [General Info](#general-info)
+- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Installation](#installation)
-//- [To-Do](#future)
+<!-- - [To-Do](#future) -->
 
 ## <a name="general-info"></a>General Info
 Jenny's Portfolio is a responsive personal marketing website built from the ground up. This single page app uses HTML anchors, CSS animations, and a Bootstrap navigation bar. It was refactored from HTML to React.  
 
-## <a name="technologies"></a>Technologies
-
-Javascript, HTML, CSS, React, Bootstrap
-
-## <a name="installation"></a>Installation
-
- 
-To have this app running on your local computer, please follow the below steps:
-
-Clone repository:
-
-```
-$ git clone https://github.com/MeliiZa/AestheticMotivation.git
-```
-
-
-//## <a name="future"></a>TODO✨
-//- ✨ Add more quotes
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
-
-
-Live version here: https://jenny-chou.netlify.app/ 
-
-Previews below.
+## <a name="screenshots"></a>Screenshots
+See the live version here: https://jenny-chou.netlify.app/ and screenshots below.
 
 Landing page:
 <div style="text-align:center">
@@ -78,3 +42,43 @@ Contact Us page:
     <img width="750" alt="contactus" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
   </kbd>
 </div>
+
+## <a name="technologies"></a>Technologies
+Project is created with:
+- Javascript 
+- HTML 
+- CSS
+- React
+- Bootstrap
+
+## <a name="installation"></a>Installation
+To have this app running on your local computer, please follow the below steps:
+
+Clone repository:
+```
+$ git clone git@github.com:codecaviette/portfolio-project.git
+```
+Navigate to the project folder:
+```
+$ cd portfolio-project-react
+```
+Install project dependencies:
+```
+$ yarn install
+```
+Run the project:
+```
+$ yarn start 
+```
+<!--## <a name="future"></a>TODO✨
+- ✨ Add more quotes -->
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
