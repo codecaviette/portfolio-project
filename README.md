@@ -14,7 +14,7 @@ See the live version here: https://jenny-chou.netlify.app/ and demo video below.
 
 <div style="text-align:center">
   <kbd>
-    <img width="550" alt="Grocery List" src="https://gph.is/g/ZdYRB00">
+    <img width="550" alt="Demo Video" src="https://media.giphy.com/media/5zoZD5XtN1q7Z4Er62/giphy.gif">
   </kbd>
 </div>
 
