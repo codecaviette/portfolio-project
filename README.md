@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [General Info](#general-info)
-- [Screenshots](#screenshots)
+- [Demo Video](#demo-video)
 - [Technologies](#technologies)
 - [Installation](#installation)
 <!-- - [To-Do](#future) -->
@@ -9,37 +9,12 @@
 ## <a name="general-info"></a>General Info
 Jenny's Portfolio is a responsive personal marketing website built from the ground up. This single page app uses HTML anchors, CSS animations, and a Bootstrap navigation bar. It was refactored from HTML to React.  
 
-## <a name="screenshots"></a>Screenshots
-See the live version here: https://jenny-chou.netlify.app/ and screenshots below.
+## <a name="demo-video"></a>Demo Video
+See the live version here: https://jenny-chou.netlify.app/ and demo video below.
 
-Landing page:
 <div style="text-align:center">
   <kbd>
-    <img width="750" alt="homepage" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/landing_page.png">
-  </kbd>
-</div>
-
-</br>
-About Me page:
-<div style="text-align:center">
-  <kbd>
-    <img width="750" alt="aboutme" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/jenny.png">
-  </kbd>
-</div>
-
-</br>
-Skills page:
-<div style="text-align:center">
-  <kbd>
-    <img width="750" alt="skills" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/skills.png">
-  </kbd>
-</div>
-
-</br>
-Contact Us page:
-<div style="text-align:center">
-  <kbd>
-    <img width="750" alt="contactus" src="https://github.com/codecaviette/jenny-chou-portfolio/blob/master/public/img/get_in_touch.png">
+    <img width="550" alt="Grocery List" src="https://gph.is/g/ZdYRB00">
   </kbd>
 </div>
 
