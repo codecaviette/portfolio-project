@@ -14,7 +14,7 @@ See the live version here: https://jenny-chou.netlify.app/ and demo video below.
 
 <div style="text-align:center">
   <kbd>
-    <img width="550" alt="Demo Video" src="https://media.giphy.com/media/sIn84IRGoQsPPyIoN3/giphy.gif">
+    <img width="600" alt="Demo Video" src="https://media.giphy.com/media/sIn84IRGoQsPPyIoN3/giphy.gif">
   </kbd>
 </div>
 
