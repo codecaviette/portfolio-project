@@ -2,14 +2,11 @@
 
 
 /* This accounts for extra white space on right side of page*/
-html,body
-{
-    
+html,body {  
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
     scroll-behavior: smooth;
-
 }
 
 /* This didn't actually have an effect on this particular project, 
