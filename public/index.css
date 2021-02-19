@@ -197,6 +197,15 @@ h3 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.banner-img4 {
+    position: relative;
+    background-image: url("newquote.png");
+    height: 14rem;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .project-name {
     font-size: 1.7rem;
