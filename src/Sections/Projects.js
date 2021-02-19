@@ -22,6 +22,15 @@ class Projects extends Component {
                             </a>
                         </div>
                     
+                        <div className="project-box" data-aos="fade-left" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-bottom">  
+                            <div className="banner-img4"></div>
+                            <h1 className="project-name">Motivational Quotes</h1>
+                            <p className="project-description"> This dynamic JavaScript app is a Google Chrome extension that displays a new motivational quote every time you open a new browser tab.</p>
+                            <a className="btn btn-info proj-btn" href="https://github.com/codecaviette/motivational-quote-generator.git" role="button">
+                                <i className="fab fa-github"></i> View on GitHub
+                            </a>
+                        </div>
+
                         <div className="project-box" data-aos="fade-up" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-bottom">  
                             <div className="banner-img2"></div>
                             <h1 className="project-name">Nucampsite Project</h1>
