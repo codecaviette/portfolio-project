@@ -22,7 +22,7 @@ class Projects extends Component {
                             </a>
                         </div>
                     
-                        <div className="project-box" data-aos="fade-down" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-bottom">  
+                        <div className="project-box" data-aos="fade-down" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="bottom-center">  
                             <div className="banner-img4"></div>
                             <h1 className="project-name">Motivational Quotes</h1>
                             <p className="project-description"> This dynamic JavaScript app is a Google Chrome extension that displays a new motivational quote every time you open a new browser tab.</p>
@@ -31,7 +31,7 @@ class Projects extends Component {
                             </a>
                         </div>
 
-                        <div className="project-box" data-aos="fade-up" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-bottom">  
+                        <div className="project-box" data-aos="fade-up" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="bottom-center">  
                             <div className="banner-img2"></div>
                             <h1 className="project-name">Nucampsite Project</h1>
                             <p className="project-description">Explore Nucamp Bootcamp's campsites, leave a rating, and submit your contact info!</p>
@@ -40,7 +40,7 @@ class Projects extends Component {
                             </a>
                         </div>
                     
-                        <div className="project-box" data-aos="fade-left" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-bottom">  
+                        <div className="project-box" data-aos="fade-left" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="bottom-center">  
                             <div className="banner-img3"></div>
                             <h1 className="project-name">Grocery List</h1>
                             <p className="project-description"> Responsive React app that creates an interactive grocery list. Add, remove and cross out items!</p>
