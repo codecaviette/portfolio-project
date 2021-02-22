@@ -13,7 +13,7 @@ class Projects extends Component {
 
                     <div id="projects-section">       {/* id's (like this one) or class's can be used to define design specs in CSS file, and "call" it in JS files  */}
                         
-                        <div className="project-box" data-aos="fade-right" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="center-center">  
+                        <div className="project-box" data-aos="fade-right" data-aos-anchor="#projectAnchor" data-aos-anchor-placement="bottom-center">  
                             <div className="banner-img1"></div> 
                             <h1 className="project-name">Login App</h1>
                             <p className="project-description">This React app displays the UI for a login form, using reactstrap and social media logins.</p>
