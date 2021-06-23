@@ -28,6 +28,7 @@
     "ssri": "^8.0.1",
     "url-parse": "^1.5.0",
     "websocket-extensions": "^0.1.4",
+    "ws": "^6.2.2",
     "y18n": "^4.0.1"
   },
   "scripts": {
