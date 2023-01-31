@@ -33,14 +33,17 @@ h3 {
 
 
 .navbar{
-    background-color: #282e33;
+    min-height: 4rem;
+    background-color: #2c2d2e;
     font-weight:bold;
-    color: #EAE1E1;
+    color: #EAE1E1 !important;
     font-family:"Amiko", sans-serif;
 }
 .navbar-nav > li{
     padding-left: 1rem;
     padding-right: 1rem;
+    color: #EAE1E1 !important;
+
 }
 
 /* Landing Page */
@@ -50,7 +53,11 @@ h3 {
     justify-content: center;
     align-items: center;
     height: 80vh;
-    background-color: #282e33;
+    background-color: #2c2d2e;
+    background-image: url("hexagons_transparent.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #landingScreen-contentWrapper{
     line-height: 1.75rem;
@@ -66,13 +73,13 @@ h3 {
 #jcDescription{
     color: #EAE1E1;
     font-size: x-large;
-    text-align: center;
-    font-family: "Inter", sans-serif;
+    text-align: left;
+    font-family: "Amiko", sans-serif;
 }
 
 /* Down Arrow from Landing page to Projects section */
 .arrow-section {
-    background-color: #282e33;
+    background-color: #2c2d2e;
     font-weight:bold;
     text-align: center;
     height: 10vh;    
