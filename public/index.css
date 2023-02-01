@@ -31,9 +31,8 @@ h3 {
     font-family:"Inter", sans-serif;
 }
 
-
 .navbar{
-    min-height: 4rem;
+    min-height: 3rem;
     background-color: #2c2d2e;
     font-weight:bold;
     color: #EAE1E1 !important;
