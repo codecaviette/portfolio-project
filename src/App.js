@@ -9,7 +9,6 @@ import AboutMe from './Sections/AboutMe';
 import Projects from './Sections/Projects';
 import Skills from './Sections/Skills';
 import ContactForm from './Sections/ContactForm';
-import Footer from './Sections/Footer';
 import Contact from './Sections/Contact';
 import Space from './Sections/Space';
 import DownArrow from './Sections/DownArrow';
