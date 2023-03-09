@@ -1,6 +1,7 @@
 // This is the Navbar
 
 import React, { Component } from 'react'
+import image from '../jc-logo-lightpink.png'
 
 class Navbar extends Component {
     render() {
@@ -8,7 +9,7 @@ class Navbar extends Component {
             <div>
                 <nav className="navbar navbar-expand-sm navbar-dark fixed-top">
                 <div className="container-fluid">    
-                    <a className="navbar-brand" href="#landingScreen" id="contactTitle" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000">JC</a>
+                    <a className="navbar-brand" href="#landingScreen" id="contactTitle" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000"><img src={image} alt="" /></a>
                     
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" 
                         aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">

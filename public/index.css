@@ -42,7 +42,11 @@ h3 {
     padding-left: 1rem;
     padding-right: 1rem;
     color: #EAE1E1 !important;
+}
 
+.navbar-brand img {
+    max-width: 35px;
+    
 }
 
 /* Landing Page */
