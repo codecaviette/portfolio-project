@@ -22,17 +22,18 @@ class Projects extends Component {
               data-aos-anchor-placement='bottom-center'
             >
               <div className='banner-img1'></div>
-              <h1 className='project-name'>Data Consulting Group Website
-</h1>
+              <h1 className='project-name'>Data Consulting Group Website</h1>
               <p className='project-description'>
-              Redesigned and rebuilt company website, while maintaining SEO and reducing company costs. Used JavaScript, React, React Router, CSS, Bootstrap, and HTML.
+                Redesigned and rebuilt company website, while maintaining SEO
+                and reducing company costs. Used JavaScript, React, React
+                Router, CSS, Bootstrap, and HTML.
               </p>
               <a
                 className='btn btn-info proj-btn'
-                href='https://github.com/codecaviette/login-app'
+                href='https://www.bingyune.com'
                 role='button'
               >
-                <i className='fab fa-github'></i> View on GitHub
+                <i className='fab '></i> View Live
               </a>
             </div>
             <div
@@ -45,16 +46,17 @@ class Projects extends Component {
               <h1 className='project-name'>Motivational Quotes</h1>
               <p className='project-description'>
                 {' '}
-                This dynamic JavaScript app is a Google Chrome extension that
-                displays a new motivational quote every time you open a new
-                browser tab.
+                Responsive, dynamic productivity app that generates a new
+                motivational quote each time the user opens a new browser tab,
+                removing distractions and helping them stay on task. Built with
+                JavaScript, CSS, HTML, and Unsplash API.
               </p>
               <a
                 className='btn btn-info proj-btn'
-                href='https://github.com/codecaviette/motivational-quote-generator.git'
+                href='https://chrome.google.com/webstore/detail/new-tab-new-quote/baieefbdnkhlffnjliobemgnbdgnbfld?hl=en'
                 role='button'
               >
-                <i className='fab fa-github'></i> View on GitHub
+                <i className='fab'></i> View Live
               </a>
             </div>
             <div
@@ -67,14 +69,16 @@ class Projects extends Component {
               <h1 className='project-name'>Venture Capital Fund Website</h1>
               <p className='project-description'>
                 {' '}
-                Responsive full-stack application with animations and form submission capabilities. Built with React, Javascript, NodeJS, MongDB Atlas.
+                Responsive full-stack application with animations and form
+                submission capabilities. Built with React, Javascript, NodeJS,
+                MongDB Atlas.
               </p>
               <a
                 className='btn btn-info proj-btn'
-                href='https://github.com/codecaviette/grocery-list'
+                href='https://www.jiaozigroup.com'
                 role='button'
               >
-                <i className='fab fa-github'></i> View on GitHub
+                <i className='fab'></i> View Live
               </a>
             </div>
             <div
@@ -118,7 +122,6 @@ class Projects extends Component {
                 <i className='fab fa-github'></i> View on GitHub
               </a>
             </div>
- 
           </div>
         </section>
       </div>
