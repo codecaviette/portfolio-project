@@ -98,27 +98,8 @@ class Projects extends Component {
                 <i className='fab fa-github'></i> View on GitHub
               </a>
             </div>
-            <div
-              className='project-box'
-              data-aos='fade-up'
-              data-aos-anchor='#projectAnchor'
-              data-aos-anchor-placement='bottom-center'
-            >
-              <div className='banner-img1'></div>
-              <h1 className='project-name'>BYCO</h1>
-              <p className='project-description'>
-                {' '}
-                Responsive React app that creates an interactive grocery list.
-                Add, remove and cross out items!
-              </p>
-              <a
-                className='btn btn-info proj-btn'
-                href='https://github.com/codecaviette/grocery-list'
-                role='button'
-              >
-                <i className='fab fa-github'></i> View on GitHub
-              </a>
-            </div>
+            
+
           </div>
         </section>
       </div>
