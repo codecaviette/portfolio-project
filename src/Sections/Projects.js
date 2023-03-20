@@ -104,7 +104,7 @@ class Projects extends Component {
               data-aos-anchor='#projectAnchor'
               data-aos-anchor-placement='bottom-center'
             >
-              <div className='banner-img4'></div>
+              <div className='banner-img1'></div>
               <h1 className='project-name'>BYCO</h1>
               <p className='project-description'>
                 {' '}
