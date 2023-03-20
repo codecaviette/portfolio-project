@@ -219,6 +219,15 @@ h3 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.banner-img-jiaozigroup {
+    position: relative;
+    background-image: url("jiaozigroup.png");
+    height: 14rem;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 

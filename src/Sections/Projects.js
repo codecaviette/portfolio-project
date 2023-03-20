@@ -22,10 +22,10 @@ class Projects extends Component {
               data-aos-anchor-placement='bottom-center'
             >
               <div className='banner-img1'></div>
-              <h1 className='project-name'>Login App</h1>
+              <h1 className='project-name'>Data Consulting Group Website
+</h1>
               <p className='project-description'>
-                This React app displays the UI for a login form, using
-                reactstrap and social media logins.
+              Redesigned and rebuilt company website, while maintaining SEO and reducing company costs. Used JavaScript, React, React Router, CSS, Bootstrap, and HTML.
               </p>
               <a
                 className='btn btn-info proj-btn'
@@ -52,6 +52,26 @@ class Projects extends Component {
               <a
                 className='btn btn-info proj-btn'
                 href='https://github.com/codecaviette/motivational-quote-generator.git'
+                role='button'
+              >
+                <i className='fab fa-github'></i> View on GitHub
+              </a>
+            </div>
+            <div
+              className='project-box'
+              data-aos='fade-left'
+              data-aos-anchor='#projectAnchor'
+              data-aos-anchor-placement='bottom-center'
+            >
+              <div className='banner-img-jiaozigroup'></div>
+              <h1 className='project-name'>Venture Capital Fund Website</h1>
+              <p className='project-description'>
+                {' '}
+                Responsive full-stack application with animations and form submission capabilities. Built with React, Javascript, NodeJS, MongDB Atlas.
+              </p>
+              <a
+                className='btn btn-info proj-btn'
+                href='https://github.com/codecaviette/grocery-list'
                 role='button'
               >
                 <i className='fab fa-github'></i> View on GitHub
@@ -98,8 +118,7 @@ class Projects extends Component {
                 <i className='fab fa-github'></i> View on GitHub
               </a>
             </div>
-            
-
+ 
           </div>
         </section>
       </div>
