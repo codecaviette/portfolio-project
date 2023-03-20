@@ -104,8 +104,8 @@ class Projects extends Component {
               data-aos-anchor='#projectAnchor'
               data-aos-anchor-placement='bottom-center'
             >
-              <div className='banner-img3'></div>
-              <h1 className='project-name'>Grocery List</h1>
+              <div className='banner-img5'></div>
+              <h1 className='project-name'>BYCO</h1>
               <p className='project-description'>
                 {' '}
                 Responsive React app that creates an interactive grocery list.

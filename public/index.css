@@ -220,6 +220,16 @@ h3 {
     background-size: cover;
 }
 
+.banner-img5 {
+    position: relative;
+    background-image: url("byco.png");
+    height: 14rem;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .project-name {
     font-size: 1.7rem;
     margin-top: 2rem;
