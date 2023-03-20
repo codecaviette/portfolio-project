@@ -88,7 +88,7 @@ h3 {
     background-color: #2c2d2e;
     font-weight:bold;
     text-align: center;
-    height: 10vh;    
+    height: 12vh;    
     display: flex;
     width: 100%;
 }
@@ -98,7 +98,7 @@ h3 {
     align-self: flex-end;
     animation-duration: 2s;
     animation-iteration-count: infinite;
-    height: 100px;
+    height: 150px;
     margin: 0 auto 0 auto;
     transform-origin: bottom;
     width: 100px;
