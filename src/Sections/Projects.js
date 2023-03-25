@@ -43,7 +43,7 @@ class Projects extends Component {
               data-aos-anchor-placement='bottom-center'
             >
               <div className='banner-img4'></div>
-              <h1 className='project-name'>Motivational Quotes</h1>
+              <h1 className='project-name'>Motivational Quotes Google Chrome Extension</h1>
               <p className='project-description'>
                 {' '}
                 Responsive, dynamic productivity app that generates a new
